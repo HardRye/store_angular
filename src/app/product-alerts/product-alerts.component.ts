@@ -1,6 +1,6 @@
 import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 
-import { Product } from '../product-list/products';
+import { Product } from '../../assets/products';
 
 @Component({
   selector: 'app-product-alerts',
